@@ -1,5 +1,5 @@
 # FiveMillenniumCanonOfSolarEclipses-Besselian-Elements
-##The Besselian Elements from the Five Millennium Canon of Solar Eclipses in different formats
+## The Besselian Elements from the Five Millennium Canon of Solar Eclipses in different formats
 
 FiveMillenniumCanonOfSolarEclipses.csv | CSV version
 FiveMillenniumCanonOfSolarEclipses.js | JavaScript
@@ -7,10 +7,10 @@ FiveMillenniumCanonOfSolarEclipses.json | JSON
 FiveMillenniumCanonOfSolarEclipsesExtra.js | JavaScript with extra information
 FiveMillenniumCanonOfSolarEclipsesExtra.json | JSON with extra information
 
-##Main website:
+## Main website:
 https://eclipse.gsfc.nasa.gov/SEpubs/5MCSE.html
 
-##License:
+## License:
 NASA's website provides the following distribution permission:
 Permission is freely granted to reproduce this data when accompanied by an acknowledgment:
 
