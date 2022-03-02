@@ -19,3 +19,7 @@ Permission is freely granted to reproduce this data when accompanied by an ackno
 "Eclipse Predictions by Fred Espenak, NASA's GSFC"
 
 https://eclipse.gsfc.nasa.gov/SEpubs/copyright.html
+
+## Example of how to use these:
+Coming shortly
+https://www.celestialprogramming.com/
