@@ -1,11 +1,13 @@
 # FiveMillenniumCanonOfSolarEclipses-Besselian-Elements
 ## The Besselian Elements from the Five Millennium Canon of Solar Eclipses in different formats
 
-FiveMillenniumCanonOfSolarEclipses.csv | CSV version
-FiveMillenniumCanonOfSolarEclipses.js | JavaScript
-FiveMillenniumCanonOfSolarEclipses.json | JSON
-FiveMillenniumCanonOfSolarEclipsesExtra.js | JavaScript with extra information
-FiveMillenniumCanonOfSolarEclipsesExtra.json | JSON with extra information
+| File | Description |
+|------|-------------|
+| FiveMillenniumCanonOfSolarEclipses.csv | CSV version |
+| FiveMillenniumCanonOfSolarEclipses.js | JavaScript |
+| FiveMillenniumCanonOfSolarEclipses.json | JSON |
+| FiveMillenniumCanonOfSolarEclipsesExtra.js | JavaScript with extra information |
+| FiveMillenniumCanonOfSolarEclipsesExtra.json | JSON with extra information |
 
 ## Main website:
 https://eclipse.gsfc.nasa.gov/SEpubs/5MCSE.html
