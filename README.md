@@ -21,5 +21,5 @@ Permission is freely granted to reproduce this data when accompanied by an ackno
 https://eclipse.gsfc.nasa.gov/SEpubs/copyright.html
 
 ## Example of how to use these:
-Coming shortly
-https://www.celestialprogramming.com/
+Better examples coming shortly, examples from Meeus:
+https://www.celestialprogramming.com/MeeusEclipseExamples/
